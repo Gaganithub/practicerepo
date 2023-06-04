@@ -1,0 +1,15 @@
+C:\GAGANPREET WORK\practice\practicerepo\bin\Debug\net7.0\practicerepo.exe
+C:\GAGANPREET WORK\practice\practicerepo\bin\Debug\net7.0\practicerepo.deps.json
+C:\GAGANPREET WORK\practice\practicerepo\bin\Debug\net7.0\practicerepo.runtimeconfig.json
+C:\GAGANPREET WORK\practice\practicerepo\bin\Debug\net7.0\practicerepo.dll
+C:\GAGANPREET WORK\practice\practicerepo\bin\Debug\net7.0\practicerepo.pdb
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\practicerepo.csproj.AssemblyReference.cache
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\practicerepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\practicerepo.AssemblyInfoInputs.cache
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\practicerepo.AssemblyInfo.cs
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\practicerepo.csproj.CoreCompileInputs.cache
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\practicerepo.dll
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\refint\practicerepo.dll
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\practicerepo.pdb
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\practicerepo.genruntimeconfig.cache
+C:\GAGANPREET WORK\practice\practicerepo\obj\Debug\net7.0\ref\practicerepo.dll
